@@ -1,11 +1,11 @@
 # Calculator
 
-This project is a simple calculator implemented in your chosen programming language. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
+This project is a simple calculator implemented in your chosen programming language. 
+It provides basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
 - Addition, subtraction, multiplication, and division
-- User-friendly interface (CLI/GUI as applicable)
 - Error handling for invalid input and division by zero
 
 ## Getting Started
